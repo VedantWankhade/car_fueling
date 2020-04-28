@@ -1,6 +1,8 @@
 # car_fueling
 Program to find minimum number of fuel stops that can be made by a car 
 
+#This problem is from _Algorithmic Toolkit_ course from _Coursera_
+
 ##**Problem Introduction**
 
 You are going to travel to another city that is located d miles away from your home city. Your car can travel
